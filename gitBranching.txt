@@ -1,0 +1,12 @@
+hi I'm the first  of main branch
+-
+-
+-
+I'm the first of leaf branch
+I'm the leaf node now
+-
+-pushing my main code 
+-
+-
+-
+Im the master branch again
